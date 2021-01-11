@@ -2,9 +2,7 @@
 |---- | ---- |  ------------ | ----| --- |
 | recordTV| Top level| TV program data  | Required |
 | &nbsp;&nbsp;&nbsp; date| Date of TV program | string| Optional | format YYYY-DD-MM.If not included, it will use today's date |
-| &nbsp;&nbsp;&nbsp; time| time of TV program | string| Required | Attribute :format on time can be either "24" or "12" for 24 or 12 hour formats. (12 hour formats are like "6:00 PM") |
-| &nbsp;&nbsp;&nbsp; duration| duration of TV program/recording | string| Required | in hours  |
-| &nbsp;&nbsp;&nbsp; channel| TV program channel number | string| Required |  |
+
 
 # Respectful Code Reviews
 
