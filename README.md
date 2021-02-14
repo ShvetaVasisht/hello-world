@@ -21,12 +21,10 @@ first readme edit
 <summary>Nested drop down2</summary>
 <details>
 <summary> markdown list 1</summary>
-  
     + nested list 1
-    
     + nested list 2
-    
     + nested list 3
+    + nested list 4
  </details>
   <details>
 <summary> markdown list 2</summary>
